@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpendSmart/static/css/main.6c71f50b.css",
+    "main.js": "/SpendSmart/static/js/main.e073f261.js",
+    "index.html": "/SpendSmart/index.html",
+    "main.6c71f50b.css.map": "/SpendSmart/static/css/main.6c71f50b.css.map",
+    "main.e073f261.js.map": "/SpendSmart/static/js/main.e073f261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c71f50b.css",
+    "static/js/main.e073f261.js"
+  ]
+}
